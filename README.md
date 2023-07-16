@@ -51,6 +51,23 @@ API Testing using Thunder Client<br/>
 ## To run ->
 `npm run dev`<br/>
 OR<br/>
-`npm dev`
+`npm dev`<br/>
+OR<br/>
+`npm run start`<br/>
+OR<br/>
+`npm start`<br/>
+OR<br/>
+`npx nodemon server.js`
+
+## Dependencies ->
+
+`npm init -y`<br/>
+`npm i nodemon`<br/>
+`npm i express`<br/>
+`npm i mongoose`<br/>
+`npm i express-async-handler`<br/>
+`npm i bcrypt`<br/>
+`npm i jsonwebtoken`<br/>
+`npm i dotenv`<br/>
 
 
