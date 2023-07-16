@@ -20,7 +20,7 @@ User Authentication<br/>
 User Authorization<br/>
 CRUD operations<br/>
 Password Hashing<br/>
-JWT Token Geneartion<br/>
+JWT Token Generation<br/>
 JWT Token Verification<br/>
 Implementation of Public Routes<br/>
 Implementation of Protected Routes<br/>
